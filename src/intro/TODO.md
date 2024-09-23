@@ -12,7 +12,7 @@
 **Instruccions:**
 1. **Operacions Bàsiques:** Escriu un programa que realitzi i mostri el resultat de les operacions següents amb dos números enters (suma, resta, multiplicació, divisió, mòdul).
 2. **Operacions amb números en punt flotant:** Escriu un fragment de codi que realitzi operacions amb números de tipus float i double. Comenta sobre qualsevol diferència observada.
-3. **Constants i Màxims/Mínims:** Utilitza les constants de la classe `Math` per obtenir el valor màxim i mínim d'un `int` i d'un `double`. Mostra aquests valors al teu programa.
+3. **Constants i Màxims/Mínims:** Utilitza les constants de la classe usada per obtenir el valor màxim i mínim d'un `int` i d'un `double`. Mostra aquests valors al teu programa.
 4. Perquè creus que et pot servir obtenir el mínim i el màxim d'un int o un double?
 
 ### Activitat 3: format i printf en Java
