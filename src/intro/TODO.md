@@ -28,7 +28,7 @@
 ### Activitat 4: args
 
 **Instruccions:**
-1. **args:** Escriu un programa que mostri com passar arguments a un programa Java i com accedir a aquests arguments des del codi.
+1. **args:** Escriu un programa que mostri com passar-li arguments i com usar-los des del codi.
 2. Executa'l des del terminal amb diferents arguments i comprova com es comporta el programa.
 ```bash 
 #single file excecution
