@@ -30,3 +30,12 @@
 **Instruccions:**
 1. **args:** Escriu un programa que mostri com passar arguments a un programa Java i com accedir a aquests arguments des del codi.
 2. Executa'l des del terminal amb diferents arguments i comprova com es comporta el programa.
+```bash 
+#single file excecution
+  java ArgsTest.java arg1 arg2 arg3
+  ````
+```bash 
+#compiling and executing
+  java -cp out/production/mp3-uf4-2425/ intro.ArgsTest arg1 arg2 arg3
+```
+
