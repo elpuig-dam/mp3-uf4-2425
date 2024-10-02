@@ -40,7 +40,7 @@
 ```
 <hr>
 
-### Activitat 45 Disseny OO
+### Activitat 5: Disseny OO
 
 **Objectiu:**
 
@@ -50,15 +50,15 @@ de classes dels comptes corrents.
 
 **Reqüisits:**
 
-- Crear una classe abstracta `CompteCorrent` que defineixi els atributs comuns a tots els tipus de comptes (número de compte, saldo)
+- Crear una classe abstracta `CompteBancari` que defineixi els atributs comuns a tots els tipus de comptes (número de compte, saldo)
   i els mètodes per ingressar i retirar diners.
-- Implementar subclasses de CompteCorrent per a representar els diferents tipus de comptes: CompteEstalvi, CompteCorrent, etc.
+- Implementar subclasses de CompteCorrent per a representar els diferents tipus de comptes: `CompteEstalvi`, `CompteCorrent`, etc.
   Cada subclasse pot tenir atributs i mètodes addicionals específics del tipus de compte:
-   - Tipus d'interès diferent per cada subtipus de compte
-- Crear una classe Banc que gestioni la col·lecció de comptes corrents del banc. La classe Banc ha de permetre:
-   - Alta de nous comptes
-   - Eliminació de comptes existents
-   - Consulta del saldo d'un compte
-   - Realització d'ingressos i reintegraments en un compte
-   - Tenir un registre de les transaccions realitzades en cada compte
-- Implementar un menú principal que permeti a l'usuari realitzar les operacions bàsiques sobre els comptes corrents del banc.
+   - [ ] Tipus d'interès diferent per cada subtipus de compte
+   - [ ] Crear una classe Banc que gestioni la col·lecció de comptes corrents del banc. La classe Banc ha de permetre:
+   - [ ] Alta de nous comptes
+   - [ ] Eliminació de comptes existents
+   - [ ] Consulta del saldo d'un compte
+   - [ ] Realització d'ingressos i reintegraments en un compte
+   - [ ] Tenir un registre de les transaccions realitzades en cada compte
+   - [ ] Implementar un menú principal que permeti a l'usuari realitzar les operacions bàsiques sobre els comptes corrents del banc.
