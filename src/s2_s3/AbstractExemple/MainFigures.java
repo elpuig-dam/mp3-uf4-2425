@@ -1,4 +1,4 @@
-package s2.AbstractExemple;
+package s2_s3.AbstractExemple;
 
 public class MainFigures {
 

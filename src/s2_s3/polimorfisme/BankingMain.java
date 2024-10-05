@@ -1,4 +1,4 @@
-package s2.polimorfisme;
+package s2_s3.polimorfisme;
 
 public class BankingMain {
     public static void main(String[] args) {
