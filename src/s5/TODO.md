@@ -7,8 +7,8 @@
     - Només els animals que volen poden implementar el mètode volar().
     - Tots els animals han de tenir mètodes per fer un soroll (ferSoroll()) i per mostrar la seva informació (mostrarInformacio()).  
    
-   Indica si has d’utilitzar una abstract class o una interface per a cada cas i implementa la teva solució. I posa un exemple  
-    d'ús de la teva aplicació, creant un Ocell i un Gos fet soroll, mostrant la seva informació i fent-lo volar si cal.
+   Indica si has d’utilitzar una abstract class, una interface o una classe standard per a cada cas i implementa la teva solució. I posa un exemple  
+    d'ús de la teva aplicació, creant un objecte Ocell i un objecte Gos fent soroll, mostrant la seva informació i fent-lo volar si cal.
 
     Pista:
     - Tingues en compte que alguns mètodes s'hauran d'implementar per a tots els animals.
