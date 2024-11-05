@@ -4,20 +4,20 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Alumne {
-    public enum Genere {
-        HOME,
-        DONA,
-        NOBINARI
+    public enum Carrec {
+        DELEGAT,
+        SUBDELEGAT,
+        SENSE_CARREC
     }
     private String nom;
     private String idalu;
-    private Genere genere;
+    private Carrec carrec;
     private Map<UF,Qualifier> notes;
 
-    public Alumne(String nom, Genere genere, String idalu) {
+    public Alumne(String nom, Carrec carrec, String idalu) {
         this.nom = nom;
         this.idalu = idalu;
-        this.genere = genere;
+        this.carrec = carrec;
         notes = new HashMap<>();
     }
 
@@ -44,6 +44,7 @@ public class Alumne {
     public void addNota(UF uf , Qualifier qf) {
         notes.put(uf,qf);
     }
+
 
 
 }

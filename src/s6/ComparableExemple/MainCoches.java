@@ -35,7 +35,6 @@ public class MainCoches {
         for (Cotxe c : llistaCotxes) {
             System.out.println(c);
         }
-
         System.out.println("Ordenat per matrícula");
         Collections.sort(llistaCotxes, new Comparator<Cotxe>() {
             @Override
