@@ -1,4 +1,4 @@
-package s7.mvc.op1;
+package s7.collectionstask;
 
 import java.util.Scanner;
 
