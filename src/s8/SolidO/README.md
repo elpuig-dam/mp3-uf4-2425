@@ -8,8 +8,8 @@ Això significa que hauràs de crear subclasses per a cada tipus de vehicle i im
 de manteniment de manera específica per a cada tipus.  
 
 Requisits:  
- - Crea una classe abstracta Vehicle amb els següents atributs i mètodes:
-        - Atributs: marca, model, any
+ - Crea una classe abstracta __Vehicle__ amb els següents atributs i mètodes: 
+ -       - Atributs: marca, model, any
  - Mètode específic: __calcularCostManteniment()__
  - Mètode comú: __mostrarInformacio()__
 
