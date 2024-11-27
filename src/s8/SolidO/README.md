@@ -47,11 +47,11 @@ Com que això de la programació orientada a objectes és una metodologia que t�
    1. __Introduir producte__: En escollir aquesta opció s'ha de mostrar un altre
       menú d'opcions: Quin tipus de producte vols afegir?  
       2. __Alimentació__: En escollir aquesta opció s'ha de demanar que
-         s'entri per teclat les dades d'un producte del tipus Alimentació
+         s'entri per teclat les dades d'un producte del tipus Alimentació  
       3. __Tèxtil__: En escollir aquesta opció s'ha de demanar que s'entri
-         per teclat les dades d'un producte del tipus Tèxtil
+         per teclat les dades d'un producte del tipus Tèxtil  
       4. __Electrònica__: En escollir aquesta opció s'ha de demanar que
-         s'entri per teclat les dades d'un producte del tipus Electrònica
+         s'entri per teclat les dades d'un producte del tipus Electrònica  
       5. __Tornar__: En escollir aquesta opció s'ha de tornar al menú principal  
       
     Us podeu saltar aquest punt i hardcodejar les dades dels productes per a fer proves.
