@@ -69,4 +69,4 @@ Com que això de la programació orientada a objectes és una metodologia que t�
      __En aquest cas, si hi ha productes repetits ho seran si tenen el mateix codi de barres (no cal mirar el
      preu unitari).__
    
-   4. Sortir En escollir aquesta opció es tanca l'aplicació.
+   4. __Sortir__: En escollir aquesta opció es tanca l'aplicació.
