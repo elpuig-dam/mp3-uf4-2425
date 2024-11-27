@@ -20,7 +20,7 @@ manteniment anual per a cada vehicle.
 
 <hr>
 
-#### Exemple 2  
+#### Exemple 2  :  Carret de la compra
 
 Una important empresa de supermercats us demana que li dissenyeu una aplicació revolucionaria!  
 Consisteix en fer que el carro de la compra mostri, en temps real, el preu dels productes que s'hi van introduint.  
