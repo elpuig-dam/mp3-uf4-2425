@@ -39,3 +39,34 @@ específiques de cada tipus de producte:
 L'aplicació que heu de fer ha de permetre emmagatzemar tots els productes que s'hi van introduint (màxim 100 productes)  
 i calcular-ne el preu. També ha de permetre que, en passar per caixa, es generi el tiquet de compra i es buidi el carro.
 Com que això de la programació orientada a objectes és una metodologia que té molts avantatges, heu decidit programar-ho en Java.
+
+##### Es demana 
+
+   Fer un programa principal que faci ús de les classes dissenyades. El programa ha de tenir un menú d'opcions com el següent,
+   i fer el que es descriu a continuació:
+   1. __Introduir producte__: En escollir aquesta opció s'ha de mostrar un altre
+      menú d'opcions: Quin tipus de producte vols afegir?  
+      2. __Alimentació__: En escollir aquesta opció s'ha de demanar que
+         s'entri per teclat les dades d'un producte del tipus Alimentació
+      3. __Tèxtil__: En escollir aquesta opció s'ha de demanar que s'entri
+         per teclat les dades d'un producte del tipus Tèxtil
+      4. __Electrònica__: En escollir aquesta opció s'ha de demanar que
+         s'entri per teclat les dades d'un producte del tipus Electrònica
+      5. __Tornar__: En escollir aquesta opció s'ha de tornar al menú principal  
+      
+    Us podeu saltar aquest punt i hardcodejar les dades dels productes per a fer proves.
+      
+   2. __Passar per caixa__: En escollir aquesta opció se simula que es passen tots els productes per caixa i es genera el tiquet. 
+      El tiquet (es mostra per pantalla) ha de mostrar una capçalera amb: data de la compra i nom del supermercat. A continuació es
+      mostra el detall amb: nom del producte, unitats introduïdes al carro, preu unitari i preu total. Finalment ha de calcular la suma
+      total a pagar.  
+      __Si s'han introduït dos productes iguals (tenen el mateix codi de barres i el mateix preu unitari) només es mostrarà una
+      vegada, amb la quantitat total d'aquell producte, és a dir, les unitats.__
+      Aquesta opció també implica buidar el carro de la compra.
+   
+   3. __Mostrar carro de la compra__: En escollir aquesta opció es mostra un llistat amb la descripció i quantitat de cada producte (sense preu) que hi
+      ha dins el carro del a compra.  
+     __En aquest cas, si hi ha productes repetits ho seran si tenen el mateix codi de barres (no cal mirar el
+     preu unitari).__
+   
+   4. Sortir En escollir aquesta opció es tanca l'aplicació.
